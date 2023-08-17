@@ -6,7 +6,7 @@
 
 ###
 
-<h3 align="left">I am a passionate and innovative software developer with a knack for turning complex problems into elegant solutions.<br>With a Bachelor's degree in Computer Engineering and a keen eye for detail, I have spent the last seven years honing my skills in full-stack web development.<br><br>✨ I thrive in collaborative environments, leveraging my strong communication skills to seamlessly bridge the gap between technical and non-technical stakeholders. I am well-versed in multiple programming languages,<br>includ<br>Java, Spring, Microservices, JavaScript, ReactJS, and Angular.<br><br>📚 I am always eager to stay up-to-date with industry trends and technologies. When not coding, I enjoy exploring new hiking trails and experimenting with new recipes in my kitchen.</h3>
+<p align="left">I am a passionate and innovative software developer with a knack for turning complex problems into elegant solutions.<br>With a Bachelor's degree in Computer Engineering and a keen eye for detail, I have spent the last seven years honing my skills in full-stack web development.<br><br>✨ I thrive in collaborative environments, leveraging my strong communication skills to seamlessly bridge the gap between technical and non-technical stakeholders. I am well-versed in multiple programming languages,<br>includ<br>Java, Spring, Microservices, JavaScript, ReactJS, and Angular.<br><br>📚 I am always eager to stay up-to-date with industry trends and technologies. When not coding, I enjoy exploring new hiking trails and experimenting with new recipes in my kitchen.</p>
 
 ###
 
@@ -14,7 +14,7 @@
 
 ###
 
-<h3 align="left">I code with</h3>
+<p align="left">I code with</p1>
 
 ###
 

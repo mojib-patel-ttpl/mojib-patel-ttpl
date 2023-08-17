@@ -2,11 +2,11 @@
 
 ###
 
-<p align="left">My name is Mojib Patel and I'm a fullstack developer at Thinkitive Technologies Private Limited, I am from Pune, India</p>
+<p align="left">My name is Mojib Patel and I'm a fullstack developer at Thinkitive Technologies Private Limited, I am from Pune, India.</p>
 
 ###
 
-<p align="left">I am a passionate and innovative software developer with a knack for turning complex problems into elegant solutions.<br>With a Bachelor's degree in Computer Engineering and a keen eye for detail, I have spent the last seven years honing my skills in full-stack web development.<br><br>✨ I thrive in collaborative environments, leveraging my strong communication skills to seamlessly bridge the gap between technical and non-technical stakeholders. I am well-versed in multiple programming languages,<br>includ<br>Java, Spring, Microservices, JavaScript, ReactJS, and Angular.<br><br>📚 I am always eager to stay up-to-date with industry trends and technologies. When not coding, I enjoy exploring new hiking trails and experimenting with new recipes in my kitchen.</p>
+<p align="left">I am a passionate and innovative software developer with a knack for turning complex problems into elegant solutions.<br>With a Master's degree in Computer Application and a keen eye for detail, I have spent the last eight years honing my skills in full-stack web development.<br><br>✨ I thrive in collaborative environments, leveraging my strong communication skills to seamlessly bridge the gap between technical and non-technical stakeholders. I am well-versed in multiple programming languages,<br>includ<br>Java, Spring, Microservices, JavaScript, ReactJS, and Angular.<br><br>📚 I am always eager to stay up-to-date with industry trends and technologies. When not coding, I enjoy exploring new hiking trails and experimenting with new recipes in my kitchen.</p>
 
 ###
 

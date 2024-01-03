@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Mojib Patel and I'm a fullstack developer at Thinkitive Technologies Private Limited, I am from Pune, India.</p>
+<p align="left">My name is Mojib Patel and I'm a fullstack developer, I am from Pune, India.</p>
 
 ###
 
